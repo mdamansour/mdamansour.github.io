@@ -25,7 +25,7 @@ const greeting = {
   subTitle: emoji(
     "A passionate Electrical Engineer & Entrepreneur 🚀 with experience in embedded systems, automation, and mobile app development using Flutter, React Native, and Python."
   ),
-  resumeLink: "https://amansour.me/resume.pdf", // Link to your resume
+  resumeLink: "https://md.amansour.me/Resume/Resume.pdf", // Link to your resume
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
