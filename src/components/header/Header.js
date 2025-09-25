@@ -9,11 +9,8 @@ import {
   educationInfo,
   workExperiences,
   bigProjects,
-  openSource,
   achievementSection,
   blogSection,
-  talkSection,
-  podcastSection,
   resumeSection
 } from "../../portfolio";
 
