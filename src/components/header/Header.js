@@ -24,11 +24,8 @@ function Header() {
   const viewEducation   = educationInfo.display;
   const viewExperience  = workExperiences.display;
   const viewProjects    = bigProjects.display;
-  const viewOpenSource  = openSource.display;
   const viewAchievement = achievementSection.display;
   const viewBlog        = blogSection.display;
-  const viewTalks       = talkSection.display;
-  const viewPodcast     = podcastSection.display;
   const viewResume      = resumeSection.display;
 
   return (
